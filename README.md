@@ -6,10 +6,8 @@
   <img src="https://ifcjs.github.io/info/assets/images/logo-a326242dd945bcc271d193f7e6d2f054.png" alt="IFCjs logo" style="width:144px;"/>
 </div>
 
-<!-- ![IFCjs-logo](https://ifcjs.github.io/info/assets/images/logo-a326242dd945bcc271d193f7e6d2f054.png) -->
-
-
 ---
+
 ## About this project
 
 Repo with content learned into course...
