@@ -2,7 +2,7 @@
 
 # **IFCjs - Frontend BIM Stack**
 
-<div style="max-width: 144px; align-items: center"> 
+<div style="max-width: 44px; align-items: center"> 
 
   ![IFCjs-logo](https://ifcjs.github.io/info/assets/images/logo-a326242dd945bcc271d193f7e6d2f054.png)
 </div>
